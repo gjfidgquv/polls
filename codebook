@@ -1,0 +1,42 @@
+poll_id: the identification number of the poll
+pollster_id: the identification of the pollster
+pollster: the name of the pollster
+sponsor_ids: the identiication numbers of the sponsors
+sponsors: the name of the sponsors
+display_name: what name is associated with that sponsor
+pollster_rating_id: the identification and the ranking of that pollster
+fte_grade: the grade of the full time equivilent 
+methodology: how the research was conducted
+state: the state they represent
+start_date: the day the poll started
+end_date: the day the poll ended
+sponsor_canidate_id: the identification of the canidate the sponsor supports
+sponsor_ canidate: the canidate the sponsor supports
+sponsor_canidate_party: the political party of the canidate the sponsor supports
+question_id: the identification of the questions used
+sample_size: the size of the sample
+population: the grade of the population used
+subpopulation: the grade of the subpopulation
+population_full: the grade of the full population
+tracking: the tracking of the population
+created_at: the date and time the poll occured
+notes: notes of the event
+url: the url of the wedsite with the results
+source: the source of the information
+internal:how well the information can be trusted
+partisan: the party that supports
+race_id: the identification of the race
+cycle: the year
+office_type: what the canidates are running for
+seat_number: what seat in the House they are running for
+seat_name: what type of seat
+election_date: the date of the election
+stage: what results are based upon
+nation_batch: the bacth of the nation
+dem: the percentage of people that voted for dem in that poll
+rep: the percentage of people that voted for dem in that poll
+ind: the percentage of people that voted for independent parties in that poll
+Republicans or Democrats in Congress 2024 data
+Author of codebook: Jennifer DeHahn
+Data obtained from FiveThirtyEight.
+Design and Development by  Ryan Best, Aaron Bycoffe, Holly Fuong, Christopher Groskopf, Ritchie King, Ella Koeze, Dhrumil Mehta, Jasmine Mithani, Mary Radcliffe, Anna Wiederkehr and Julia Wolfe.
